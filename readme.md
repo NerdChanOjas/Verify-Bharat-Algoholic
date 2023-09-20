@@ -14,6 +14,10 @@ We have prepared a presentation outlining our solution for the Smart India Hacka
 
 [SIH Problem Statement PPT](https://drive.google.com/drive/folders/1DASZekPuMWHQ9lxLLcMOL8KvLN4KLsyg?usp=sharing)
 
+## Hosted Link
+
+[Verify Bharat](https://verifybharat.vercel.app/)
+
 
 ## Project Details
 
