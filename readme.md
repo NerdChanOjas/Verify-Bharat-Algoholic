@@ -2,7 +2,7 @@
 
 Welcome to the Team Algoholic GitHub repository! We are a dedicated team working on solving problems and creating innovative solutions. Below, you'll find important information about our project and team.
 
-## Round 1 Prototype Video
+## Round 2 Prototype Video
 
 Check out our Round 2 prototype video to see our project in action:
 
